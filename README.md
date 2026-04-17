@@ -5,7 +5,8 @@ Here, the development and iterations of the Rover Bot.
 
 Iteration 1
 Wiring
-![It1Pic1](https://github.com/user-attachments/assets/99f504c1-4ecd-4303-b800-84c366fcec2d)
+<img width="623" height="729" alt="Screenshot 2026-04-17 at 5 08 33 PM" src="https://github.com/user-attachments/assets/d604fdbc-5da6-4ff3-8c64-e81ae1e3d6d6" />
+
 
 
 
