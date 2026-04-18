@@ -1,24 +1,22 @@
-# Rover Bot Project
+# Rover Bot Project 🤖
+Documentation of the development, iterations, and final build of the Rover Bot.
 
-Here, the development and iterations of the Rover Bot.
+---
 
+## 🚀 Project Roadmap
+Use the links below to explore each stage of the build process.
 
-Iteration 1
-Wiring
+| Stage | Focus | Documentation |
+| :--- | :--- | :--- |
+| **Iteration 1** | Wiring & Initial Logic | [View Progress →](IterationOne.md) |
+| **Iteration 2** | Wireless Control & Encoders | [View Progress →](IterationTwo.md) |
+| **Iteration 3** | 3D Printed Chassis | [View Progress →](IterationThree.md) |
+| **Iteration 4** | Final Redesign & Assembly | [View Progress →](IterationFour.md) |
 
+---
 
-
-
-
-
-Iteration 2
-Cardboard
-Bangbang
-
-
-Iteration 3
-3d printed
-
-
-Iteration 4
-Reprinted and redesigned 
+## 🛠️ Tech Stack
+* **Microcontroller:** ESP32
+* **Motors:** DC Gear Motors with L298N Driver
+* **Chassis:** Custom 3D Printed (PLA)
+* **Logic:** Bang-Bang Controller with Encoders
