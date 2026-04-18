@@ -30,6 +30,6 @@ I do think the jump from little to no electronic knowledge to a working motor po
 * **Goal:** Just trying to make it move
 
 ### Results
-* Successfully allowed the robot to move
-* Identified the need for a more rigid chassis
+* Got the robot to move
+* Need for stiffer chassis
 * Robot stuck by the length of the wire since it required a connection to the battery source (my computer)
