@@ -1,9 +1,9 @@
-# Rover Bot Project 🤖
+# Rover Bot Project
 Documentation of the development, iterations, and final build of the Rover Bot.
 
 ---
 
-## 🚀 Project Roadmap
+## Project Roadmap
 Use the links below to explore each stage of the build process.
 
 | Stage | Focus | Documentation |
@@ -15,7 +15,7 @@ Use the links below to explore each stage of the build process.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Microcontroller:** ESP32
 * **Motors:** DC Gear Motors with L298N Driver
 * **Chassis:** Custom 3D Printed (PLA)
