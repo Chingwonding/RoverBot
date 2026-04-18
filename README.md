@@ -15,7 +15,7 @@ Use the links below to explore each stage of the build process.
 
 ---
 
-## Tech Stack
+## Items: 
 * **Microcontroller:** ESP32
 * **Motors:** DC Gear Motors with L298N Driver
 * **Chassis:** Custom 3D Printed (PLA)
