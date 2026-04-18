@@ -33,6 +33,8 @@ This is the first CADDED and 3D-printed chassis iteration of the robot. In addit
 </table>
 
       
+<p>Cadding file: https://cad.onshape.com/documents/1a5c997a57b3c824365969a9/w/6e16fa5b6ff6d0dffa91acb9/e/590c29762548594c55b862b4?renderMode=0&uiState=69e40642379216188411d1c0</p>
+
 
 
 ---
