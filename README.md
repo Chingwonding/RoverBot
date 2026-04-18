@@ -11,7 +11,7 @@ Use the links below to explore each stage of the build process.
 | **Iteration 1** | Wiring & Initial Logic | [View Progress →](IterationOne.md) |
 | **Iteration 2** | Wireless Control & Encoders | [View Progress →](IterationTwo.md) |
 | **Iteration 3** | 3D Printed Chassis | [View Progress →](IterationThree.md) |
-| **Iteration 4** | Final Redesign & Assembly | [View Progress →](IterationFour.md) |
+| **Iteration 4** | Final Redesign & Assembly | In Progress, please be patient |
 
 ---
 
