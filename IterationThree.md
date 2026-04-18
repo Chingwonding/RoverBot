@@ -1,4 +1,4 @@
-Iteration 3
+
 
 # Iteration 3: 3D Printed Chassis
 This is the first CADDED and 3D-printed chassis iteration of the robot. In addition, the current design was my first CAD design, and I made a lot of goofy mistakes that prevented the robot from functioning as I had planned. Hardware wise, I added the IMU (which I learned how to solder the header pins for), the LCD display, and the Ultrasonic sensor. Despite spending 10+ hours designing the cad alone, I made stupid mistakes like forgetting that walls take up space, meaning lots of dimensions meant to fit snuggly just didn't. As seen in the photo, the L298 lies on top of the batteries, while originally the plan was for the L298 to be in the hole part with one battery on each side fastened using zipties. 
