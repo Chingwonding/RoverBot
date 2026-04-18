@@ -7,7 +7,7 @@ I do think the jump from little to no electronic knowledge to a working motor po
 ---
 
 <div style="background-color: #f6f8fa; border-radius: 12px; padding: 30px; border: 1px solid #d0d7de;">
-  <h3 style="margin-top: 0; text-align: center;">📸 Progress Gallery</h3>
+  <h3 style="margin-top: 0; text-align: center;">Progress Gallery</h3>
   
   <p align="center">
     <img src="https://github.com/user-attachments/assets/28acb36b-cf00-422f-ac8e-50a58d3c0591" width="450" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
