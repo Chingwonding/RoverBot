@@ -1,5 +1,8 @@
 # Iteration 1: The Foundation
 Initial setup of the motor controllers and basic movement testing using a cardboard base.
+In the beginning, I just started building basic things through Arduino and the ESP32. 
+Through this project, I sought to learn as I go while building something interesting that actually excites me. 
+I do think the jump from little to no electronic knowledge to a working motor power test was the biggest knowledge jump so far. 
 
 ---
 
@@ -21,11 +24,12 @@ Initial setup of the motor controllers and basic movement testing using a cardbo
 
 ---
 
-### 🛠️ Technical Details
+### Technical Details
 * **Chassis:** Temporary cardboard structure for component spacing.
-* **Electronics:** DC Motor Kit with an L298N Motor Driver.
-* **Goal:** Verify that the code correctly interprets movement commands.
+* **Electronics:** TT_DcMotors, ESP32, L298
+* **Goal:** Just trying to make it move
 
-### 📈 Results
-* Successfully achieved forward, backward, and turning motions.
-* Identified the need for a more rigid chassis (leading to Iteration 3).
+### Results
+* Successfully allowed the robot to move
+* Identified the need for a more rigid chassis
+* Robot stuck by the length of the wire since it required a connection to the battery source (my computer)
